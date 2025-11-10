@@ -1,7 +1,7 @@
 ## **Connect with me on LinkedIn**
 www.linkedin.com/in/krishna03007
 
-# **Retail Customer Analysis**
+# **Retail Business Analysis**
 ## 📌 Project Overview
 This project focuses on **analyzing customer and sales data** to derive insights, clean the data, and prepare it for further analysis. The dataset included information about customers, purchases, product details, and transactions.
 
